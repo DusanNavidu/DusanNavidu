@@ -2,17 +2,6 @@
 
 ### Hey, I'm <span id="name">Dusan Navidu</span> ✨
 
-<script>
-    let nameElement = document.getElementById("name");
-    let names = ["Dusan Navidu", "Dusan", "Navidu"];
-    let index = 0;
-    
-    setInterval(() => {
-        nameElement.innerText = names[index];
-        index = (index + 1) % names.length;
-    }, 2000);
-</script>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
 ![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
