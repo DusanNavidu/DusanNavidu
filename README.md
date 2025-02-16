@@ -19,6 +19,12 @@
     }, 2000);
 </script>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
+![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
+![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+
+
 ### 🚀 About Me
 - 😃 I'm Dusan Navidu
 - 🎂 I'm 22 years old
