@@ -9,15 +9,15 @@
 ---
 
 ### 🚀 About Me
-- 😃 I'm **[Your Name]**
-- 🎂 I'm **[Your Age]** years old
-- 💻 I'm interested in **Software Development, Hacking, Web Development** and more...
-- 🎓 Currently studying **[Your Degree]** at **[Your University]**
-- 🌟 Member of **[Clubs/Communities]**
-- 🔥 Looking to collaborate on **Web Apps, Linux Tools, Server Operations, Open Source Projects**
-- 📧 Email me at **your@email.com**
-- 📸 Follow me on **[Instagram](https://www.instagram.com/yourusername/)**
-- 📱 WhatsApp me at **+94XXXXXXXXX**
+- 😃 I'm Dusan Navidu
+- 🎂 I'm 22 years old
+- 💻 I'm interested in Software Development, Gaming, Web Development and more...
+- 🎓 Currently studying GDSE at Institute of Software Engineering (IJSE)
+- 🌟 Member of ----
+- 🔥 Looking to collaborate on Web Apps, Linux Tools, Server Operations, Open Source Projects
+- 📧 Email me at navidu200210@gmail.com
+- 📸 Follow me on Instagram (https://www.instagram.com/dusannavidu?igsh=bmt5ZjBtOHNmaGYz/)
+- 📱 WhatsApp me at +94787777616
 
 ---
 
@@ -47,9 +47,9 @@
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dusan-navidu-11b9a234a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DusanNavidu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17ZPqeFdtN/)
 
 ---
 
