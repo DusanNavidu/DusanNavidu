@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### Hey, I'm [Your Name] ✨
+### Hey, I'm Dusan Navidu ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
