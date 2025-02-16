@@ -1,12 +1,6 @@
 ## Hi there! 👋
 
-### Hey, I'm Dusan Navidu ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
-![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
-![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-
----
+### Hey, I'm <span id="name">Dusan Navidu</span> ✨
 
 <script>
     let nameElement = document.getElementById("name");
@@ -19,11 +13,9 @@
     }, 2000);
 </script>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
 ![Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-
 
 ### 🚀 About Me
 - 😃 I'm Dusan Navidu
