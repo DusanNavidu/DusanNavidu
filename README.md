@@ -1,3 +1,19 @@
+<div align="center">
+    
+![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Shan%20Jayawardhana&fontSize=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=50" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3AAAF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Java+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=shaanzx&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+<img src="https://img.shields.io/github/followers/shaanzx?style=social" alt="followers" />
+<img src="https://img.shields.io/github/stars/shaanzx?style=social" alt="stars" />
+
+</div>
+
+
+
 ## Hi there! 👋
 
 ### Hey, I'm <span id="name">Dusan Navidu</span> ✨
