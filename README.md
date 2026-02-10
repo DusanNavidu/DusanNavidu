@@ -45,7 +45,7 @@
 
 ### 🏆 Achievements & Badges
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DusanNavidu&theme=radical&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
