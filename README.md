@@ -27,7 +27,7 @@
 - 🎂 I'm 22 years old
 - 💻 I'm interested in Software Development, Gaming, Web Development and more...
 - 🎓 Currently studying GDSE at Institute of Software Engineering (IJSE)
-- 🌟 Member of ----
+- 🌟 Student Committee Member - Institute of Software Engineering (IJSE)
 - 🔥 Looking to collaborate on Web Apps, Linux Tools, Server Operations, Open Source Projects
 - 📧 Email me at navidu200210@gmail.com
 - 📸 Follow me on Instagram (https://www.instagram.com/dusannavidu?igsh=bmt5ZjBtOHNmaGYz/)
