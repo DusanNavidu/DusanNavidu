@@ -30,6 +30,8 @@
 - 🌟 Student Committee Member - Institute of Software Engineering (IJSE)
 - 🔥 Looking to collaborate on Web Apps, Linux Tools, Server Operations, Open Source Projects
 - 📧 Email me at navidu200210@gmail.com
+- 📱 LinkedIn - https://linkedin.com/in/dusan-navidu
+- 📱 Portfolio - https://dusannavidu.vercel.app/
 - 📸 Follow me on Instagram (https://www.instagram.com/dusannavidu?igsh=bmt5ZjBtOHNmaGYz/)
 - 📱 WhatsApp me at +94787777616
 
